@@ -1,8 +1,10 @@
 # Hi 👋, I'm Anant Barjatya
 
-💻 Computer Science (Data Science) Student
-🚀 Full Stack Developer | Data Analytics | AI Projects
-📍 Rajasthan, India
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=false&vCenter=true&width=700&lines=Full+Stack+Developer;Computer+Science+(Data+Science)+Student;Building+Real-World+Projects;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
+
+💻 **Computer Science Student**
+🚀 **Full Stack Developer | Data Analytics | AI Projects**
+📍 **Rajasthan, India**
 
 ---
 
@@ -11,33 +13,33 @@
 * 🔭 Currently building **Tala - Secure Credential Manager**
 * 🎭 Built **DeepFake Video Detection System**
 * 📊 Selected for **PwC Advisory Launchpad Program**
-* 🤖 Working as **AI Response Evaluation Intern**
-* 🌱 Learning Advanced Full Stack Development & Scalable Systems
-* 💼 Open to Internship & Software Engineering Opportunities
+* 🤖 Working as **AI Response Evaluation freelancer**
+* 🌱 Learning **Advanced Full Stack Development & Scalable Systems**
+* 💼 Open to **Internship & Software Engineering Opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge\&logo=mysql)
 
-### Frontend
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge\&logo=tailwindcss)
 
-### Backend
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 
-### Database & Tools
+### 🗄️ Database & Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
@@ -63,24 +65,27 @@ AI-powered deepfake detection using Xception CNN + BiLSTM with Flask API and rea
 ## 📈 Experience Highlights
 
 * 📊 Data Analytics Trainee — PwC Advisory Launchpad
-* 🤖 AI Response Evaluation freelancer — Deccan AI
+* 🤖 AI Response Evaluation freelanceer — Deccan AI
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anantbarjatya\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=anantbarjatya\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anantbarjatya\&layout=compact\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anantbarjatya\&layout=compact\&theme=tokyonight\&hide=jupyter%20notebook\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anantbarjatya\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/anantbarjatya
-* Email: [barjatyaanant23@gmail.com](mailto:barjatyaanant23@gmail.com)
-* LinkedIn: Add Your LinkedIn Link
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/anantbarjatya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/anant-barjatya-1340b627b/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:barjatyaanant23@gmail.com)
 
 ---
 
-⭐️ From Anant Barjatya
+⭐️ From **Anant Barjatya**
